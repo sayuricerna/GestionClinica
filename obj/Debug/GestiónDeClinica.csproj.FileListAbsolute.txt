@@ -1,0 +1,16 @@
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.csproj.AssemblyReference.cache
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.Presentacion.MenuPrincipal.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.Properties.Resources.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.csproj.GenerateResource.cache
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.csproj.CoreCompileInputs.cache
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\bin\Debug\GestiónDeClinica.exe.config
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\bin\Debug\GestiónDeClinica.exe
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\bin\Debug\GestiónDeClinica.pdb
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.exe
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.pdb
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.Presentacion.CUCita.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.Presentacion.CUMedico.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.Presentacion.CUPaciente.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.Presentacion.Cita.FrmCita.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.Presentacion.Medico.FrmMedico.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\GestiónDeClinica\obj\Debug\GestiónDeClinica.Presentacion.Paciente.FrmPaciente.resources
